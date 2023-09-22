@@ -1,0 +1,108 @@
+body{
+    background-color: black;
+}
+.home{
+    background-image: url(netflix.jpg);
+    width: 100vw;
+    height: 100vh;
+}
+.nav{
+    display: flex;
+    justify-content: end;
+    padding-right: 20px; 
+    padding-top: 20px;
+    
+}
+.para{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 230px;
+}
+.para>h1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+}
+.para>p{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 1%;
+}
+.logo{
+    display: flex;
+    justify-self: left;
+    width: 80%;
+    font-size: 40px;
+    color: #E50914;
+    font-weight: 900;
+    
+}
+.mail>input{
+    background-color: rgb(74, 69, 69);
+    color: white ;
+   border-radius: 4px;
+   border-color: white;
+   width: 300px;
+   height: 40px;
+   opacity: 0.8;
+}
+.mail>button{
+background-color: red;  
+color: white;
+border-radius: 4px;
+width: 100px;
+height: 47px;
+border-color: white;
+
+}
+#sec{
+    width: 100px;
+    height: 35px;
+}
+#sec1{
+    width: 100px;
+    height: 35px;
+    background-color: #E50914;
+    color: white;
+    border-radius: 5px;
+    border-color:none;
+
+}
+.img{
+    padding-top: 100px;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.para2{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head{
+    color: white;
+    font-size: 20px;
+    width: 30%;
+}
+.para3{
+    color: white;
+    display: flex;
+    align-self: flex-end;
+}
+.img1{
+    margin-bottom: 30px;
+    width: 50%;
+    height: 50%;
+}
+.para2>h1{
+    color: white;
+    font-size: 20px;
+
+}
