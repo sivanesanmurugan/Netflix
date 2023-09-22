@@ -2,7 +2,7 @@ body{
     background-color: black;
 }
 .home{
-    background-image: url(images/netflix.jpg);
+    background-image: url(images\netflix.jpg);
     width: 100vw;
     height: 100vh;
 }
